@@ -6,6 +6,6 @@ Source: `public/index.html` (single file, no build).
 
 ## Copyright and origin
 
-Copyright (c) 2026 cjpsms. All rights reserved. See [LICENSE](LICENSE).
+Licensed under the 0BSD license. See [LICENSE](LICENSE).
 
 This app was copied from an app seen on Instagram. The original creator is not credited here, and the original work's rights belong to that creator.
