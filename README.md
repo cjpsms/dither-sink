@@ -8,4 +8,8 @@ Source: `public/index.html` (single file, no build).
 
 Licensed under the 0BSD license. See [LICENSE](LICENSE).
 
-This app was copied from an app seen on Instagram. The original creator is not credited here, and the original work's rights belong to that creator.
+Inspired by an app seen on Instagram. This version is a separate build, not a copy of that app. Differences:
+
+- Adds a real-time clock: the scene follows the actual time of day.
+- Layout scales to the screen size (clamp() and container units).
+- Less polished than the Instagram original: its 3D rendering and birds look better than this version's.
